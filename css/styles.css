@@ -30,14 +30,14 @@ section {
     display: block;
   }
 
-  #mobile-sponsors {
+  .mobile-only {
     display: none;
   }
 }
 
 @media (max-width: 991px) {
-  #mobile-sponsors {
-    display: block;
+  .mobile-only {
+    display: inline-block;
   }
 }
 
