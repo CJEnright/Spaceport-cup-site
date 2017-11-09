@@ -4,4 +4,4 @@ Website made for Purdue's chapter of the [America Spaceport Cup](https://spacepo
 
 Version hosted on Purdue's network coming soon; for now see below.
 
-Github hosted version is available at cjenright.github.io/Spaceport-cup-site/
+Github hosted version is available at [cjenright.github.io/Spaceport-cup-site/](cjenright.github.io/Spaceport-cup-site/)
